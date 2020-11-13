@@ -2,6 +2,7 @@
 
 Forkify is a JS Project done under "The Complete Javascript Course 2020: From Zero to Expert!" by Jonas Schmedtman and designed by him.
 Search, save and upload your own recipes in one easy to see location!
+Check out the finished project [here](https://forkify-js-project.vercel.app/)! 
 
 ## Installation
 
