@@ -19,7 +19,8 @@
   "homepage": "https://github.com/JordanKoehler/Forkify-JS-Project#readme",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
-    "sass": "^1.29.0"
+    "sass": "^1.29.0",
+    "node-forge": ">=0.10.0"
   },
   "dependencies": {
     "core-js": "^3.7.0",
